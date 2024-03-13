@@ -20,7 +20,7 @@ This repository serves as a comprehensive collection of all the work done during
 
 ## Achievements
 
-![Achievement 1](./CERTIFICATE.jpg)
+![Achievement 1](./certificate.jpg)
 ![Achievement 2](./laptop-prize.jpeg)
 ![Achievement 2](./10PEARLS.jpg)
 
