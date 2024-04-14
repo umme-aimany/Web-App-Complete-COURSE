@@ -1,6 +1,6 @@
 # Web and Mobile Application Development Course Repository
 
-This repository contains the complete projects and folders for my Web and Mobile Application Development course. It includes all the assignments, projects, and code related to the course.
+This repository contains the complete projects and folders for my Web and Mobile Application Development course. It includes all the assignments,projects, and code related to the course.
 
 ## Contents
 
